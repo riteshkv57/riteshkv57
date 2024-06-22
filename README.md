@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritesh Verma</h1>
 <h3 align="center">A passionate Full Stack Web Developer.</h3>
-<img align="center" height="400" width="1000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1q_6mnEV0s5XAGNbx3cX3xepmFubXDdbOv8NVcckCQ&s">
+<img align="center" height="400" width="1000" src="https://img.freepik.com/premium-vector/wed-developer-programmer-coding-augmented-reality-screen-premium-vector_375605-332.jpg?size=626&ext=jpg&uid=R153630701&ga=GA1.1.1654128680.1719068987&semt=ais_user">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshkv57&label=Profile%20views&color=0e75b6&style=flat" alt="riteshkv57" /> </p>
 
